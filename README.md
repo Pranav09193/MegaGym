@@ -23,7 +23,7 @@ This repository contains the source code and assets for the MegaGym website, an 
 
 ## Installation
 
-To install and run the MEGAGYM website on your local machine, follow these steps:
+To install and run the MegaGym website on your local machine, follow these steps:
 
 1. Clone the repository:
    ```bash
@@ -45,7 +45,7 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 ---
 
-Thank you for contributing to MEGAGYM!
+Thank you for contributing to MegaGym!
 ```
 
 You can save this content as `README.md` in your project repository. This will provide a clear and structured overview of the project, its features, technologies, installation instructions, and contribution guidelines.
