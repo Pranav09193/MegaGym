@@ -4,7 +4,7 @@ This repository contains the source code and assets for the MegaGym website, an 
 
 ## Features
 
-- **Responsive and visually appealing design** tailored for MEGAGYM's branding
+- **Responsive and visually appealing design** tailored for MegaGym's branding
 - **Dynamic content management** with WordPress
 - **Custom coding** for enhanced functionality and user experience
 - **Blog section** for sharing fitness-related articles and updates
