@@ -1,4 +1,4 @@
-# MegaGym - Athlete Fitness Club Website
+# MegaGym - An Athlete Fitness Club Website
 
 This repository contains the source code and assets for the MEGAGYM website, an athlete fitness club designed and developed using WordPress, along with custom HTML, CSS, and JavaScript.
 
