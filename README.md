@@ -18,6 +18,7 @@ This repository contains the source code and assets for the MegaGym website, an 
 - **HTML5**
 - **CSS3**
 - **JavaScript**
+- **jQuery**
 - **PHP**
 - **MySQL**
 
