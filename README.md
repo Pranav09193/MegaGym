@@ -27,11 +27,11 @@ To install and run the MEGAGYM website on your local machine, follow these steps
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/megagym-website.git
+   git clone https://github.com/your-username/MegaGym.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd megagym-website
+   cd MegaGym
    ```
 3. Install WordPress and its dependencies by following the [official WordPress installation guide](https://wordpress.org/support/article/how-to-install-wordpress/).
 4. Configure the database connection details in the `wp-config.php` file.
